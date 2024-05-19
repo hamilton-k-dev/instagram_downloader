@@ -13,6 +13,6 @@ This is a Python-based Telegram bot that downloads photos and videos from Instag
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/instagram-to-telegram-bot.git
-   cd instagram-to-telegram-bot
+   git clone https://github.com/hamilton-k-dev/instagram_downloader.git
+   cd instagram_downloader
    ```
